@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogManagamentAPI", "LogManagamentAPI\LogManagamentAPI.csproj", "{8D5753F8-AF39-4FCF-987D-3875C249DD78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D5753F8-AF39-4FCF-987D-3875C249DD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5753F8-AF39-4FCF-987D-3875C249DD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5753F8-AF39-4FCF-987D-3875C249DD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5753F8-AF39-4FCF-987D-3875C249DD78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F069F40F-4533-4647-9537-83A67865CD08}
+	EndGlobalSection
+EndGlobal
